@@ -1,1 +1,3 @@
-# Bgmi-ddos-2
+# ddos
+# By @xYz_CriminalL
+@SERVER FREEZE 
